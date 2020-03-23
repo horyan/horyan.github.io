@@ -1,11 +1,7 @@
-## Portfolio landing page still under construction!
+## Virtual Portfolio
 
-### Project 1: Basic drum kit application to practice JavaScript
-* Check out my implementation here https://horyan.github.io/drumkit
-  * HTML and CSS starter files provided from https://github.com/wesbos/JavaScript30
+Built a personalized website to display my growing collection of JavaScript mini projects. This is a gallery formed in effort to represent my learning advancement.
 
-#### Features
 
-#### How to use
-
-#### Screenshots
+## Acknowledgements
+* [Wes Bos](https://github.com/wesbos/JavaScript30)
