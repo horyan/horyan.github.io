@@ -1,5 +1,9 @@
-.bg-gray-50 {
-  background-color: #f9fafb;
+a {
+  text-decoration: none;
+}
+
+.bg-gray-200 {
+  background-color: #e5e7eb;
 }
 
 .py-16 {
@@ -14,4 +18,22 @@
 
 .ml-1 {
   margin-left: .25rem;
+}
+
+.btn {
+  border:1px solid transparent;
+  border-radius: .375rem;
+  padding: .2rem .4rem;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #5a67d8;
+  border-color: #5a67d8;
+}
+
+.btn-secondary {
+  color: #5a67d8;
+  background-color: #fff;
+  border-color: #fff;
 }
