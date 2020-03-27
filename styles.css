@@ -1,5 +1,5 @@
 /* Import Font */
-@import url(https://cdn.jsdelivr.net/gh/rsms/inter@3.12/docs/font-files/Inter-V.var.woff2);
+@font-face{font-family:Inter V;font-weight:100 900;font-style:oblique 0deg 10deg;font-display:swap;src:local("Inter V"),url(https://cdn.jsdelivr.net/gh/rsms/inter@3.12/docs/font-files/Inter-V.var.woff2) format("woff2-variations")}
 
 /*  CSS Reset */
 html {
