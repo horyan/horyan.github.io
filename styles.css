@@ -1,3 +1,6 @@
+/* Import Font */
+@import url(https://cdn.jsdelivr.net/gh/rsms/inter@3.12/docs/font-files/Inter-V.var.woff2);
+
 /*  CSS Reset */
 html {
   line-height: 1.5;
