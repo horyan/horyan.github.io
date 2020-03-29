@@ -85,7 +85,7 @@ a {
   border-image-source: linear-gradient(90deg,transparent,transparent);
 }
 
-.logo span:hover {
+.logo:hover span {
   border-image-source: linear-gradient(270deg,#63b3ed,#3182ce);
   border-image-slice: 1;
 }
