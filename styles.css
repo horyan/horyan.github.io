@@ -25,6 +25,11 @@ a {
   text-decoration: inherit;
 }
 
+/*a {
+  color: inherit;
+  text-decoration: inherit;
+}*/
+
 /* Fresh */
 .border {
   border: 1px solid #e2e8f0;
@@ -78,12 +83,12 @@ a {
 .logo span {
   border-bottom: 2px solid;
   border-image-source: linear-gradient(90deg,transparent,transparent);
-  border-image-slice: 1;
 }
 
-/*.logo:hover {
-  text-decoration: underline;
-}*/
+.logo span:hover {
+  border-image-source: linear-gradient(270deg,#63b3ed,#3182ce);
+  border-image-slice: 1;
+}
 
 .logo-text {
   background: repeating-linear-gradient(270deg,#63b3ed,#3182ce);
