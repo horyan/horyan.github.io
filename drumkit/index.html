@@ -78,6 +78,7 @@
   window.addEventListener('keydown', keySound);
 
   //support mouse click and mobile press
+  //TODO: prevent macros like ctrl+a from firing
   function clickSound(e) {
     const keyCode = this.getAttribute('data-key');
     const audio = document.querySelector(`audio[data-key="${keyCode}"]`);
