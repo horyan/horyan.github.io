@@ -1,7 +1,8 @@
-## Virtual Portfolio
+## Portfolio
 
-Built a personalized website to display my growing collection of JavaScript mini projects. This is a gallery formed in effort to represent my learning advancement.
+Built a personal website to showcase some of the cool projects I've worked on.
 
 
 ## Acknowledgements
 * [Wes Bos](https://github.com/wesbos/JavaScript30)
+* [WebOfficeHours](https://www.webofficehours.com/)
