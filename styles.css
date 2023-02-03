@@ -68,7 +68,7 @@ body {
   text-rendering: optimizeLegibility;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  font-smoothing: antialiased;
+  font-smooth: always;
   overflow-x: hidden; }
 
 img {
